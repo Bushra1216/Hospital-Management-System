@@ -81,7 +81,7 @@ int About_us()
 {  system("cls");
 
   printf("\n                                                                                     ABOUT US                                                                   \n");
-printf(" \nEvercare Hospital Dhaka is the first and only hospital to be accredited by the Joint Commission International (JCI) . The JCI Gold Seal of Approval is a globally recognized and reflects an organization’s commitment to best practices in quality and patient safety. Evercare Hospital Dhaka was first accredited by JCI in 2008 and till date remains the only hospital in Bangladesh to hold this international recognized standard. Accreditation by recognized international institutions such as JCI are crucial to drive compliance and improve quality and cost-effectiveness across the hospitals and has become a priority for health care organizations across the world.EHD is a 425-bed multi-disciplinary super-specialty tertiary care hospital in Bangladesh, providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art equipment, modern well researched protocols & processes. The eleven-storied modern structure with 435,000 square feet floor space, was conceptualized & designed by renowned architecture company Smith Group of United States of America.\n\nEvercare Hospital Dhaka is a world-class hospital with an aim to establish a close synergy among medical skills, trained manpower, technology and advancements in IT. Because we believe in Transforming Health care.\n");
+printf(" \nEvercare Hospital Dhaka is the first and only hospital to be accredited by the Joint Commission International (JCI) . The JCI Gold Seal of Approval is a globally recognized and reflects an organizationâ€™s commitment to best practices in quality and patient safety. Evercare Hospital Dhaka was first accredited by JCI in 2008 and till date remains the only hospital in Bangladesh to hold this international recognized standard. Accreditation by recognized international institutions such as JCI are crucial to drive compliance and improve quality and cost-effectiveness across the hospitals and has become a priority for health care organizations across the world.EHD is a 425-bed multi-disciplinary super-specialty tertiary care hospital in Bangladesh, providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art equipment, modern well researched protocols & processes. The eleven-storied modern structure with 435,000 square feet floor space, was conceptualized & designed by renowned architecture company Smith Group of United States of America.\n\nEvercare Hospital Dhaka is a world-class hospital with an aim to establish a close synergy among medical skills, trained manpower, technology and advancements in IT. Because we believe in Transforming Health care.\n");
 printf("\n\n\t Press any key to continue...");
 getch();
 }
@@ -94,15 +94,15 @@ int Contact_information()
     printf("\n       Emergency Contact   : (02)-8431679, (02)-8431161, (02)-8431691");
     printf("\n       E-mail              : For general enquiries:feedback@evercarebd.com");
     printf("\n\n");
-    printf("\n       • Information Desk     : (02)-8431661 Ext: 3333\n");
-    printf("\n       • Admission Desk       : (02)-8431661 Ext: 1091 & 2112\n");
-    printf("\n       • Billing Information  : (02)-8431661 Ext: 1353\n");
-    printf("\n       • Pharmacy             : (02)-8431661 Ext: 1041\n");
-    printf("\n       • Sample Collection    : (02)-8431661 Ext: 1346\n");
-    printf("\n       • Report Delivery      : (02)-8431661 Ext: 1202\n");
-    printf("\n       • Security Control Room: 01755521328\n");
-    printf("\n       • Food Village         : (02)-8431661 Ext: 6100\n");
-    printf("\n       • Emergency Ambulance  :01712983748 \n");
+    printf("\n       â€¢ Information Desk     : (02)-8431661 Ext: 3333\n");
+    printf("\n       â€¢ Admission Desk       : (02)-8431661 Ext: 1091 & 2112\n");
+    printf("\n       â€¢ Billing Information  : (02)-8431661 Ext: 1353\n");
+    printf("\n       â€¢ Pharmacy             : (02)-8431661 Ext: 1041\n");
+    printf("\n       â€¢ Sample Collection    : (02)-8431661 Ext: 1346\n");
+    printf("\n       â€¢ Report Delivery      : (02)-8431661 Ext: 1202\n");
+    printf("\n       â€¢ Security Control Room: 01755521328\n");
+    printf("\n       â€¢ Food Village         : (02)-8431661 Ext: 6100\n");
+    printf("\n       â€¢ Emergency Ambulance  :01712983748 \n");
 
    printf("\n\n\t Press any key to continue...");
     getch();
@@ -113,24 +113,24 @@ int Specialities()
 {  system("cls");
      system("COLOR 30");
     printf("\n                                                                              Specialities                                                              \n\n");
-    printf("\n    • Cancer Care Center\n");
-    printf("\n    • Joint Care & Wellness Center\n");
-    printf("\n    • Cardiology\n");
-    printf("\n    • Cardiac Electrophysiology & Heart Failure\n");
-    printf("\n    • Children Development Center\n");
-    printf("\n    • Dental & Maxillofacial Surgery\n");
-    printf("\n    • Dermatology & Venereology \n");
-    printf("\n    • Diagnostic & Interventional Radiology \n");
-    printf("\n    • ENT & Cochlear Implant\n");
-    printf("\n    • Fertility Center\n");
-    printf("\n    • Gastroenterology & Hepatology\n");
-    printf("\n    • General & Laparoscopic\n");
-    printf("\n    • Hematology/STC\n");
-    printf("\n    • Internal Medicine\n");
-    printf("\n    • Lab Medicine\n");
-    printf("\n    • Neurology\n");
-    printf("\n    • Neurosurgery\n");
-    printf("\n    • Orthopaedic & Trauma Department \n");
+    printf("\n    â€¢ Cancer Care Center\n");
+    printf("\n    â€¢ Joint Care & Wellness Center\n");
+    printf("\n    â€¢ Cardiology\n");
+    printf("\n    â€¢ Cardiac Electrophysiology & Heart Failure\n");
+    printf("\n    â€¢ Children Development Center\n");
+    printf("\n    â€¢ Dental & Maxillofacial Surgery\n");
+    printf("\n    â€¢ Dermatology & Venereology \n");
+    printf("\n    â€¢ Diagnostic & Interventional Radiology \n");
+    printf("\n    â€¢ ENT & Cochlear Implant\n");
+    printf("\n    â€¢ Fertility Center\n");
+    printf("\n    â€¢ Gastroenterology & Hepatology\n");
+    printf("\n    â€¢ General & Laparoscopic\n");
+    printf("\n    â€¢ Hematology/STC\n");
+    printf("\n    â€¢ Internal Medicine\n");
+    printf("\n    â€¢ Lab Medicine\n");
+    printf("\n    â€¢ Neurology\n");
+    printf("\n    â€¢ Neurosurgery\n");
+    printf("\n    â€¢ Orthopaedic & Trauma Department \n");
     printf("\n\n\t Press any key to continue...");
     getch();
 
@@ -149,10 +149,9 @@ printf("\n\t\t\t\t\t<<<<<<<<<<<<<<< DOCTORS  INFORMATION  >>>>>>>>>>>>>>>>>\n");
    {
    printf("\n\n\t\t 1.Add Doctor Info\n");
    printf("\n\t\t 2. View Doctor Info\n");
-   printf("\n\t\t 3.Update Info\n");
-   printf("\n\t\t 4.Delete Info\n");
-   printf("\n\t\t 5. Search Doctor Info\n");
-   printf("\n\t\t 6.Main");
+   printf("\n\t\t 3. Update Info\n");
+   printf("\n\t\t 4. Search Doctor Info\n");
+   printf("\n\t\t 5.Main");
 
    printf("\n\n\n\t\tEnter Your Choice: ");
    scanf("%d", &ch);
@@ -171,20 +170,18 @@ printf("\n\t\t\t\t\t<<<<<<<<<<<<<<< DOCTORS  INFORMATION  >>>>>>>>>>>>>>>>>\n");
          Update_Doctor_Info();
         break;
 
-     case 4:
-        Delete_Doctor_Info();
-        break;
-      case 5:
-      Search_Doctor_Info();
 
-       break;
-        goto begin;
-      case 6:
+      case 4:
+      Search_Doctor_Info();
+      break;
+      case 5:
      system("cls");
      printf("\n\n\t\t\t\t|||||||||||||||||||||||||||||||||||||||||||ADMIN  PANEL||||||||||||||||||||||||||||||||||||||||||\n");
      return   'goto start';
 
     break;
+
+
 
       getch();
 
@@ -231,6 +228,7 @@ int Patients_Informations()
 
      case 5:
       Search_Patient_Info();
+      break;
      case 6:
      system("cls");
        printf("\n\n\t\t\t\t|||||||||||||||||||||||||||||||||||||||||||ADMIN  PANEL||||||||||||||||||||||||||||||||||||||||||\n");
@@ -307,36 +305,37 @@ void login(void)
 }
 
 int Add_Doctor_Info()
-{
+{ int n,sum;
+    printf("\n\n\tHow many doctors' information do you want to add:");
+    scanf("%d", &n);
+    sum = n + num;
 
-  printf("\n\n\tHow many info do you want to add:");
-   scanf("%d",&n);
-   sum=n+num;
-    for(i=num,j=0;i<sum;i++)
+    for (i = num; i < sum; i++)
     {
-    printf("Enter the id:");
-    scanf("%d", &d[i].id);
+        printf("Enter the id:");
+        scanf("%d", &d[i].id);
 
-    printf("Enter the name:");
-     scanf("%s",&d[i].name );
+        printf("Enter the name:");
+        scanf("%s", d[i].name);
 
-    printf("Enter Department:");
-       scanf("%s",d[i].department );
+        printf("Enter Department:");
+        scanf("%s", d[i].department);
 
-    printf("Enter Age:");
-       scanf("%d", &d[i].age);
+        printf("Enter Age:");
+        scanf("%d", &d[i].age);
 
-    printf("Enter Day:");
-    scanf("%s",&d[i].day);
+        printf("Enter Day:");
+        scanf("%s", d[i].day);
 
-    printf("Enter Time:");
-    scanf("%f%s",&d[i].time,&d[i].a);
+        printf("Enter Time:");
+        scanf("%f%s", &d[i].time, d[i].a);
 
-     j++;
-     num++;
-     printf("\n");
+        num++;
+        printf("\n");
     }
 }
+
+
 
 
 int View_Doctor_Info()
@@ -347,7 +346,7 @@ printf("          \n\n\t\t\t\t\t***********View Information**************\n\n  "
 printf("\n\tId\t\t Name\t\tDepartment\tAge\t\t Day\t\t Time\n\n ");
     for(i=1; i<num; i++)
     {
-        printf("\n   \t%d  \t\t%s \t\t%s\t\t%d\t\t%s  \t %.2f %s ",d[i].id,d[i].name,d[i].department,d[i].age,d[i].day,d[i].time,d[i].a);
+        printf("\n   \t%d  \t\t%s \t\t%s\t\t%d\t\t%s\t  \t %.2f %s ",d[i].id,d[i].name,d[i].department,d[i].age,d[i].day,d[i].time,d[i].a);
     }
 }
 
@@ -405,65 +404,6 @@ int q,p;
             printf("\n\nInvalid Serial No.\nPlease Try Again !\n\n");
         }
     }
-}
-int Delete_Doctor_Info()
-{   int serial,count=0;
-    int del;
-    printf("Please enter the serial number of that Doctor you want to remove:   ");
-    scanf("%d",&serial);
-    if(serial<num)
-   { printf(" \n\n 1.Remove whole record of the Doctor.\n2.Remove Id.\n3.Remove name\n4.Remove Department\n5.Remove age \n6.Remove Day\n7.Remove Time\n  ");
-      printf("What do you want to delete: ");
-      scanf("%d",&del);
-      switch(del)
-      {
-      case 1:
-          {  while(serial<num)
-           {
-              d[serial].id=d[serial+1].id;
-              strcpy(d[serial].name,d[serial+1].name);
-              strcpy(d[serial].department,d[serial+1].department);
-              d[serial].age=d[serial+1].age;
-              strcpy(d[serial].day,d[serial+1].day);
-              d[serial].time=d[serial+1].time;
-              serial++;
-            }
-           num--;
-        break;
-        }
-      case 2:
-        {  d[serial].id=0;
-          break;
-        }
-      case 3:
-        {  strcpy(d[serial].name,"DELETED");
-            break;
-         }
-    case 4:
-        { strcpy(d[serial].department,"DELETED");
-          break;
-        }
-  case 5:
-        { d[serial].age=0;
-          break;
-        }
-
-      case 6:
-        {
-            strcpy(d[serial].day,"DELETED");
-           break;
-
-        }
-        case 7:
-        {
-           d[serial].time=0;
-           break;
-
-        }
-         default:
-        printf("Wrong Input\n");
-      }
-   }
 }
 
 int Search_Doctor_Info()
@@ -543,7 +483,7 @@ int Search_Doctor_Info()
         printf("\nDepartment     = %s", d[k].department);
         printf("\nAge            = %d", d[k].age);
         printf("\nDay            = %s", d[k].day);
-        printf("\nTime           = %.2f %s", d[k].time,d[k].a);
+        printf("\nTime           = %.2f %s\n\n", d[k].time,d[k].a);
             flag=0;
             }
 
@@ -569,7 +509,7 @@ int Search_Doctor_Info()
         printf("\nDepartment     = %s", d[k].department);
         printf("\nAge            = %d", d[k].age);
         printf("\nDay            = %s", d[k].day);
-        printf("\nTime           = %.2f %s", d[k].time,d[k].a);
+        printf("\nTime           = %.2f %s\n\n", d[k].time,d[k].a);
 
               flag=0;
             }
@@ -595,7 +535,7 @@ int Search_Doctor_Info()
         printf("\nDepartment     = %s", d[k].department);
         printf("\nAge            = %d", d[k].age);
         printf("\nDay            = %s", d[k].day);
-        printf("\nTime           = %.2f %s", d[k].time,d[k].a);
+        printf("\nTime           = %.2f %s\n\n", d[k].time,d[k].a);
 
               flag=0;
             }
@@ -619,7 +559,7 @@ int Search_Doctor_Info()
         printf("\nDepartment     = %s", d[k].department);
         printf("\nAge            = %d", d[k].age);
         printf("\nDay            = %s", d[k].day);
-        printf("\nTime           = %.2f %s", d[k].time,d[k].a);
+        printf("\nTime           = %.2f %s\n\n", d[k].time,d[k].a);
         flag=0;
             }
 
@@ -676,64 +616,82 @@ int View_Patient_Info()
    printf("    \n\n\tSerial Number \t\tName\t\tAge   \t\tDisease  \t\tDay  \t\tTime\n\n");
    for(int e=1;e<num;e++)
    {
-      printf("\n    \t%d   \t\t\t\t%s\t\t%s  \t\t%s  \t\t%s   \t%s  " ,d[e].serial_no,d[e].nam,d[e].Ptag,d[e].dis,d[e].dy,d[e].PatientTim);
+      printf("\n    \t%d   \t\t\t%s\t\t%s  \t\t%s  \t\t%s   \t\t%s  \n\n" ,d[e].serial_no,d[e].nam,d[e].Ptag,d[e].dis,d[e].dy,d[e].PatientTim);
    }
 }
+
 int Update_Patient_Info()
 {
-int q,p;
+    int q, p;
 
-    printf("What do you want to update ?\n");
+    printf("What do you want to update?\n");
     printf("Enter your option\n");
     printf("1.Serial Number\n2.Name\n3.Age\n4.Disease\n5.Day\n6.Time\n");
-    printf(" Choice option=");
-    scanf("%d",&q);
-    if(q<=6)
+    printf("Choice option=");
+    scanf("%d", &q);
+
+    if (q <= 6)
     {
-        printf("Enter the serial number of that patient =");
-        scanf("%d",&p);
-        if(p<num)
+        printf("Enter the serial number of the patient you want to update: ");
+        scanf("%d", &p);
+
+        int found = 0;
+
+        for (int i = 1; i < num; i++)
         {
-            if(q==1)
+            if (d[i].serial_no == p)
             {
-                printf("Enter the new Serial Number :");
-                scanf("%d",&d[p].serial_no);
+                found = 1;
 
-            }
-            else if(q==2)
-            {
-                printf("Enter the new Name :");
-                scanf("%s",&d[p].nam);
-            }
-            else if(q==3)
-            {
-                printf("Enter the new Age :");
-                scanf("%s",&d[p].Ptag);
-            }
+                if (q == 1)
+                {
+                    printf("Enter the new Serial Number: ");
+                    scanf("%d", &d[i].serial_no);
+                }
+                else if (q == 2)
+                {
+                    printf("Enter the new Name: ");
+                    scanf("%s", &d[i].nam);
+                }
+                else if (q == 3)
+                {
+                    printf("Enter the new Age: ");
+                    scanf("%s", &d[i].Ptag);
+                }
+                else if (q == 4)
+                {
+                    printf("Enter the new Disease: ");
+                    scanf("%s ", &d[i].dis);
+                }
+                else if (q == 5)
+                {
+                    printf("Enter the new Day: ");
+                    scanf("%s", &d[i].dy);
+                }
+                else if (q == 6)
+                {
+                    printf("Enter the new Time: ");
+                    scanf(" %s", &d[i].PatientTim);
+                }
 
-            else if(q==4)
-            {
-                printf("Enter the Disease :");
-                scanf("%s ",&d[p].dis);
-            }
-
-            else if(q==5)
-            {
-                printf("Enter the new Day :");
-                scanf("%s",&d[p].dy);
-            }
-            else if(q==6)
-            {
-                printf("Enter the new Time :");
-                scanf(" %s",&d[p].PatientTim);
+                printf("Patient record updated successfully.\n");
+                break; // Exit the loop once the record is found and updated
             }
         }
-        else
+
+        if (!found)
         {
-            printf("\n\nInvalid Serial No.\nPlease Try Again !\n\n");
+            printf("\n\nPatient with Serial No. %d not found.\n\n", p);
         }
     }
+    else
+    {
+        printf("\n\nInvalid Option.\nPlease Try Again !\n\n");
+    }
 }
+
+
+
 int Delete_Patient_Info()
 {
    int serial, del;
@@ -805,28 +763,40 @@ int Search_Patient_Info()
 {   int serial,sear,f;
     float m;
     char u[100];
+
     printf("What do you want to search ?\n");
     printf("1.Serial no.\n2.Name\n3.Age\n4.Disease\n5.Day\n6.Time\n\nOption = ");
     scanf("%d",&sear);
+    int found = 0; // Flag to check if the specified serial number is found
+
     switch(sear)
     {
-    case 1:
+
+     case 1:
     {
         printf("Enter Serial number of the patient=");
-        scanf("%d",&serial);
-        if(serial<num)
-        {
-        printf("\nSerial Number  = %d", d[serial].serial_no );
-        printf("\nName           = %s", d[serial].nam);
-        printf("\nAge            = %s", d[serial].Ptag);
-        printf("\nDisease        = %s", d[serial].dis);
-        printf("\nDay            = %s", d[serial].dy);
-        printf("\nTime           =%s", d[serial].PatientTim);
+        scanf("%d", &serial);
 
+        for (k = 0; k < num; k++)
+        {
+            if (serial == d[k].serial_no)
+            {
+                found = 1;
+                printf("\nSerial Number  = %d", d[k].serial_no);
+                printf("\nName           = %s", d[k].nam);
+                printf("\nAge            = %s", d[k].Ptag);
+                printf("\nDisease        = %s", d[k].dis);
+                printf("\nDay            = %s", d[k].dy);
+                printf("\nTime           = %s\n", d[k].PatientTim);
+                break;
+            }
         }
-        else
+
+        if (!found)
+        {
             printf("\n\nNot Found\n\n");
-    break;
+        }
+        break;
     }
     case 2:
     {
@@ -844,7 +814,7 @@ int Search_Patient_Info()
         printf("\nAge            = %s", d[k].Ptag);
         printf("\nDisease        = %s", d[k].dis);
         printf("\nDay            = %s", d[k].dy);
-        printf("\nTime           =  %s", d[k].PatientTim);
+        printf("\nTime           = %s\n", d[k].PatientTim);
                 flag=0;
 
             }
@@ -871,7 +841,7 @@ int Search_Patient_Info()
         printf("\nAge            = %s", d[k].Ptag);
         printf("\nDisease        = %s", d[k].dis);
         printf("\nDay            = %s", d[k].dy);
-        printf("\nTime           =  %s", d[k].PatientTim);
+        printf("\nTime           = %s\n", d[k].PatientTim);
 
                 flag=0;
             }
@@ -898,7 +868,7 @@ int Search_Patient_Info()
         printf("\nAge            = %s", d[k].Ptag);
         printf("\nDisease        = %s", d[k].dis);
         printf("\nDay            = %s", d[k].dy);
-        printf("\nTime           = %.2lf %s", d[k].PatientTim);
+        printf("\nTime           = %s\n", d[k].PatientTim);
 
                 flag=0;
             }
@@ -923,7 +893,7 @@ int Search_Patient_Info()
         printf("\nAge            = %s", d[k].Ptag);
         printf("\nDisease        = %s", d[k].dis);
         printf("\nDay            = %s", d[k].dy);
-        printf("\nTime           =  %s", d[k].PatientTim);
+        printf("\nTime           =  %s\n", d[k].PatientTim);
 
                flag=0;
             }
@@ -947,7 +917,7 @@ int Search_Patient_Info()
         printf("\nAge            = %s", d[k].Ptag);
         printf("\nDisease        = %s", d[k].dis);
         printf("\nDay            = %s", d[k].dy);
-        printf("\nTime           = %.2lf %s", d[k].PatientTim);
+        printf("\nTime           = %s\n", d[k].PatientTim);
 
                flag=0;
             }
@@ -963,6 +933,7 @@ int Search_Patient_Info()
     }
   getch();
 }
+
 int Patient_Appointment()
 { system("cls");
 
@@ -1037,11 +1008,11 @@ int View_Appointment()
 {
     system("cls");
 
-   printf("     \t\t\t**********************View Appointment List***********************\n\n" );
+   printf("     \n\n\n\t\t\t**********************View Appointment List***********************\n\n" );
    printf(" Token No.\t\tName\t\tAge\t\tGender\t\tPhone No.\t\tAppointment time \n\n");
    for(r=1;r<num;r++)
     {
-      printf("\n  %d  \t\t\t%s \t\t%s\t\t\t%s\t\t%s \t\t %s",d[r].token_no,d[r].Appnam,d[r].Appg,d[r].gender,d[r].AppPhn,d[r].AppT);
+      printf("\n  %d  \t\t%s \t\t%s\t\t%s\t\t%s \t\t %s",d[r].token_no,d[r].Appnam,d[r].Appg,d[r].gender,d[r].AppPhn,d[r].AppT);
 
     }
 
