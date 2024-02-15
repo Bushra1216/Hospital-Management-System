@@ -261,7 +261,7 @@ void title(void)
 
   printf("\n\n\n\t\t\t\t\t\t\t\tEVERCARE HOSPITAL");
     printf("\n\n\t\t\t\t\t---------------------------------------------------------------");
-   getch();
+
 }
 
 void login(void)
